@@ -1,0 +1,28 @@
+C:\Users\jasper\Desktop\cs2012\ch15\DataReaderOleDb\bin\Debug\DataReaderOleDb.exe.config
+C:\Users\jasper\Desktop\cs2012\ch15\DataReaderOleDb\bin\Debug\DataReaderOleDb.exe
+C:\Users\jasper\Desktop\cs2012\ch15\DataReaderOleDb\bin\Debug\DataReaderOleDb.pdb
+C:\Users\jasper\Desktop\cs2012\ch15\DataReaderOleDb\obj\Debug\DataReaderOleDb.Form1.resources
+C:\Users\jasper\Desktop\cs2012\ch15\DataReaderOleDb\obj\Debug\DataReaderOleDb.Properties.Resources.resources
+C:\Users\jasper\Desktop\cs2012\ch15\DataReaderOleDb\obj\Debug\DataReaderOleDb.csproj.GenerateResource.Cache
+C:\Users\jasper\Desktop\cs2012\ch15\DataReaderOleDb\obj\Debug\DataReaderOleDb.exe
+C:\Users\jasper\Desktop\cs2012\ch15\DataReaderOleDb\obj\Debug\DataReaderOleDb.pdb
+C:\cs2013\ch15\DataReaderOleDb\bin\Debug\DataReaderOleDb.exe.config
+C:\cs2013\ch15\DataReaderOleDb\obj\Debug\DataReaderOleDb.exe
+C:\cs2013\ch15\DataReaderOleDb\obj\Debug\DataReaderOleDb.pdb
+C:\cs2013\ch15\DataReaderOleDb\bin\Debug\DataReaderOleDb.exe
+C:\cs2013\ch15\DataReaderOleDb\bin\Debug\DataReaderOleDb.pdb
+C:\cs2013\ch15\DataReaderOleDb\obj\Debug\DataReaderOleDb.Form1.resources
+C:\cs2013\ch15\DataReaderOleDb\obj\Debug\DataReaderOleDb.Properties.Resources.resources
+C:\cs2013\ch15\DataReaderOleDb\obj\Debug\DataReaderOleDb.csproj.GenerateResource.Cache
+C:\Users\LAF\Documents\Visual Studio 2013\Projects\ado.net_sample\DataReaderOleDb\bin\Debug\DataReaderOleDb.exe.config
+C:\Users\LAF\Documents\Visual Studio 2013\Projects\ado.net_sample\DataReaderOleDb\obj\Debug\DataReaderOleDb.exe
+C:\Users\LAF\Documents\Visual Studio 2013\Projects\ado.net_sample\DataReaderOleDb\obj\Debug\DataReaderOleDb.pdb
+C:\Users\LAF\Documents\Visual Studio 2013\Projects\ado.net_sample\DataReaderOleDb\bin\Debug\DataReaderOleDb.exe
+C:\Users\LAF\Documents\Visual Studio 2013\Projects\ado.net_sample\DataReaderOleDb\bin\Debug\DataReaderOleDb.pdb
+C:\Users\LAF\Documents\Visual Studio 2013\Projects\ado.net_sample\DataReaderOleDb\obj\Debug\DataReaderOleDb.csprojResolveAssemblyReference.cache
+C:\Users\LAF\Documents\Visual Studio 2013\Projects\ado.net_sample\DataReaderOleDb\obj\Debug\DataReaderOleDb.Form1.resources
+C:\Users\LAF\Documents\Visual Studio 2013\Projects\ado.net_sample\DataReaderOleDb\obj\Debug\DataReaderOleDb.Properties.Resources.resources
+C:\Users\LAF\Documents\Visual Studio 2013\Projects\ado.net_sample\DataReaderOleDb\obj\Debug\DataReaderOleDb.csproj.GenerateResource.Cache
+C:\Users\LAF\Documents\Visual Studio 2013\Projects\CS_adodotnet_practice\DataReaderOleDb\bin\Debug\DataReaderOleDb.exe.config
+C:\Users\LAF\Documents\Visual Studio 2013\Projects\CS_adodotnet_practice\DataReaderOleDb\obj\Debug\DataReaderOleDb.exe
+C:\Users\LAF\Documents\Visual Studio 2013\Projects\CS_adodotnet_practice\DataReaderOleDb\obj\Debug\DataReaderOleDb.pdb
